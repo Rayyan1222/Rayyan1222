@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm, Rayyan Basathia</h1>
+<h1 align="center">Hi, I'm Rayyan Basathia</h1>
 <h3 align="center">A Third Year Applied Cybersecurity and Information Tech Student at Illinois Tech</h3>
 
 - I’m currently working on: [A Research Paper on Volatile Memory in Digital Forensics](https://github.com/Rayyan1222/CyberForensics)
@@ -8,8 +8,6 @@
 - Current Focus: **Gaining hands-on experience with penetration testing.**
 
 - I'm currently learning: **Vulnerability Scanning Using Active Directory.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rayyan1222](https://github.com/Rayyan1222)
 
 - 📫 How to reach me **raybas270@gmail.com**
 
